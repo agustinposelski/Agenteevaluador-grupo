@@ -1,3 +1,3 @@
 # Agenteevaluador-grupo
 Agente evaluador.
-Integrantes: Agustin, Diego, etc
+Integrantes: Agustin Poselski, Diego Gonzalez, Gustavo Berreta, Eliana.
